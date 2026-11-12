@@ -14,7 +14,7 @@ Windows varnar "Windows skyddade datorn" eftersom programmet inte är signerat m
 
 ## Nya versioner
 
-Command Center kollar själv en gång om dagen och säger till i appen när en ny version finns. Klicka **UPPDATERA NU**, så tar datorn en säkerhetskopia och installerar den. En ny version erbjuds först när den har funnits i två veckor.
+Command Center kollar själv en gång om dagen och säger till i appen när en ny version finns. Klicka **UPPDATERA NU**, så tar datorn en säkerhetskopia och installerar den.
 
 Du kan också ladda ner den nya installationsfilen härifrån och köra den. Den installerar över den gamla och behåller allt.
 
@@ -30,6 +30,6 @@ Your own small start page on your PC: weather, to-do, shopping list, reminders t
 
 Windows says "Windows protected your PC" because the program isn't signed with a bought certificate: click **More info → Run anyway**.
 
-**New versions:** Command Center checks once a day and tells you in the app; **UPDATE NOW** takes a backup and installs it. A new version is only offered once it has been out for two weeks. Running a newer installer by hand also works and keeps everything.
+**New versions:** Command Center checks once a day and tells you in the app; **UPDATE NOW** takes a backup and installs it. Running a newer installer by hand also works and keeps everything.
 
 This repo holds the installers only.
